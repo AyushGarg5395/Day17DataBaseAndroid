@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Day17DataBase</string>
+    <string name="button">Sign UP</string>
+    <string name="hint">Hint</string>
+    <string name="enter_your_mail_address">  Enter Your Mail Address</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_password">   Enter Your Password</string>
+    <string name="enter_your_username">Enter Your UserName</string>
+</resources>

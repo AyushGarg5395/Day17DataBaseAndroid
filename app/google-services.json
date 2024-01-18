@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367019925037",
+    "project_id": "day17database",
+    "storage_bucket": "day17database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367019925037:android:ca4446e065d9bf007c62a4",
+        "android_client_info": {
+          "package_name": "com.example.day17database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2AWlqHiaf7bNdFO4vfy2XI7YEmGmoXJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
